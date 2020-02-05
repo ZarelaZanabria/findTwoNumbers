@@ -7,8 +7,9 @@ function sumaFindTwoNumber(arrs, sumaNumber) {
 for (let i = 0; i < arrs.length; i++) {
  for (let j = 1; j< arrs.length; j++){
    if(arrs[i] + arrs[j] == sumaNumber) {
-     return [arrs[i],arrs[j]]
-   }
+     return [arrs[i],arrs[j]];
+   }else {
+    return [];
  }  
 }
  
