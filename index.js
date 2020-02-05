@@ -1,7 +1,5 @@
-//Quiero encontrar dos sumeros del array que sumados 
-// es igual al parametro sumaNumber
-// QUIERO OBTENER [4,5]
-
+//Quiero encontrar dos números del array que sumados resulta el número objectivo.
+// La función debe retornar un array con los dos números.
 let arrNumber = [1, 3, 4, 5];
 
 
